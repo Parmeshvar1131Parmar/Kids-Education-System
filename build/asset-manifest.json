@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df8a1d39.css",
+    "main.js": "/static/js/main.b252a849.js",
+    "static/media/solar.jpg": "/static/media/solar.eda7ed3e523ce7ace1ea.jpg",
+    "static/media/game.jpg": "/static/media/game.044f4ea9cff5c49c5c1b.jpg",
+    "static/media/number2.jpg": "/static/media/number2.346b275f8806edd17d58.jpg",
+    "static/media/logo1.png": "/static/media/logo1.bcb8bac52236c6e81b70.png",
+    "static/media/slide3.jpg": "/static/media/slide3.0d2736b09f576073b554.jpg",
+    "static/media/feature2.jpg": "/static/media/feature2.00473ab958ec40e8fddc.jpg",
+    "static/media/bg.jpg": "/static/media/bg.89549854eeada764a106.jpg",
+    "static/media/feature3.jpg": "/static/media/feature3.57877622cc61b466f4fd.jpg",
+    "static/media/instructor-4.jpg": "/static/media/instructor-4.05f83cb5d24b1af070b7.jpg",
+    "static/media/instructor-2.jpg": "/static/media/instructor-2.db450859a47f592dbace.jpg",
+    "static/media/instructor-3.jpg": "/static/media/instructor-3.12360524b674bf4ec162.jpg",
+    "static/media/instructor-1.jpg": "/static/media/instructor-1.ed1dc19533749d77b269.jpg",
+    "static/media/feature1.jpg": "/static/media/feature1.c7cab7c9aafd7012b1ae.jpg",
+    "static/media/activity1.jpg": "/static/media/activity1.233f9a45a08a2da9fd52.jpg",
+    "static/media/activity2.jpg": "/static/media/activity2.88e50b03e6a02a68e9e2.jpg",
+    "static/media/parent1.jpg": "/static/media/parent1.d84fcb47f71fdde67587.jpg",
+    "static/media/parent3.jpg": "/static/media/parent3.ae9a783509438d12becd.jpg",
+    "static/media/parent2.jpg": "/static/media/parent2.2c038755ec76a088d250.jpg",
+    "index.html": "/index.html",
+    "main.df8a1d39.css.map": "/static/css/main.df8a1d39.css.map",
+    "main.b252a849.js.map": "/static/js/main.b252a849.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df8a1d39.css",
+    "static/js/main.b252a849.js"
+  ]
+}
